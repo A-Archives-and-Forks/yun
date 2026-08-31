@@ -23,6 +23,6 @@
 ## 服饰
 
 - 可更换的发卡
-  - 目前是蓝色的 [element-plus](https://github.com/element-plus/element-plus) Logo
-  - 计划 [Valaxy](https://github.com/YunYouJun/valaxy) LOGO
+  - 发卡上的 Logo 可根据活动或项目介绍自由更换
+  - 示例：[Element Plus](https://github.com/element-plus/element-plus)、[Valaxy](https://github.com/YunYouJun/valaxy) Logo
 - 作业时有科技感的护目镜（待定）
