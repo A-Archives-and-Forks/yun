@@ -13,3 +13,7 @@
 - JPG 建议使用 [Squoosh](https://squoosh.app/) 压缩。
 
 如希望对表情包附加说明和作者信息，可在 [`images/meme/README.md`](./meme/README.md) 中添加描述。
+
+## 无发卡立绘
+
+[`yun-no-hairpin.png`](./yun-no-hairpin.png) 是基于 `yun-alpha.png` 生成的无发卡 AI 衍生参考图，使用白色背景，不含透明通道。正式分层素材与项目发卡的制作要求见[人物设定](../set.md#无发卡版本与项目发卡)。
